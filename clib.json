@@ -1,6 +1,6 @@
 {
   "name": "cstring_array",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repo": "goodcleanfun/cstring_array",
   "description": "Stores an array of NUL-terminated C strings as one contiguous array with index pointers",
   "keywords": ["vector", "array", "string"],
