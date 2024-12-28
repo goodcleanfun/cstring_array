@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "goodcleanfun/char_array": "*",
-    "goodcleanfun/num_arrays": "*"
+    "goodcleanfun/num_array": "*"
   },
   "src": ["src/cstring_array.h", "src/cstring_array.c"]
 }
