@@ -23,7 +23,7 @@ can be used when building the contiguous string arrays as well.
 #include <stdbool.h>
 #include <stdarg.h>
 
-#include "num_arrays/uint32_array.h"
+#include "num_array/uint32_array.h"
 #include "char_array/char_array.h"
 
 typedef struct {
