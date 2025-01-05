@@ -64,7 +64,6 @@ cstring_array *cstring_array_from_char_array(char_array *str) {
 cstring_array *cstring_array_from_strings(char **strings, size_t n) {
     cstring_array *array = cstring_array_new();
     for (size_t i = 0; i < n; i++) {
-        cstring_array_start_token(array);
         cstring_array_add_string(array, strings[i]);
     }
     return array;

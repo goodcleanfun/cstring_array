@@ -5,6 +5,9 @@
   "description": "Stores an array of NUL-terminated C strings as one contiguous array with index pointers",
   "keywords": ["vector", "array", "string"],
   "license": "MIT",
+  "development": {
+    "silentbicycle/greatest": "*"
+  },
   "dependencies": {
     "goodcleanfun/char_array": "*",
     "goodcleanfun/num_array": "*"
