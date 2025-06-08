@@ -9,8 +9,7 @@
     "silentbicycle/greatest": "*"
   },
   "dependencies": {
-    "goodcleanfun/char_array": "*",
-    "goodcleanfun/num_array": "*"
+    "goodcleanfun/char_array": "*"
   },
   "src": ["src/cstring_array.h", "src/cstring_array.c"]
 }
